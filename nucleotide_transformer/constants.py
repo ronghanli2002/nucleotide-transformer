@@ -12,6 +12,6 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-NUCLEOTIDES = ["A", "T", "C", "G"]
+NUCLEOTIDES = ["A", "T", "C", "G", "M"]
 VALID_EXTRA_NUCLEOTIDES = ["N", "M", "Y", "B", "S", "W", "K", "H", "D", "V", "R"]
-EXTRA_NUCLEOTIDES = ["N", "M"]
+EXTRA_NUCLEOTIDES = ["N"]
